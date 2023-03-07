@@ -1,0 +1,13 @@
+.title {
+    color: white;
+    background-color: red;
+    text-align: center;
+}
+.subsection{
+    color: antiquewhite;
+    background-color: green;
+}
+.btn {
+    color: black;
+    background-color: orange;
+}
